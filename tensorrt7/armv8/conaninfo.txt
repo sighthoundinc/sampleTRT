@@ -1,0 +1,30 @@
+[settings]
+    arch=armv8
+    os=Linux
+
+[requires]
+
+
+[options]
+
+
+[full_settings]
+    arch=armv8
+    build_type=Release
+    compiler=clang
+    compiler.libcxx=libstdc++11
+    compiler.version=8
+    os=Linux
+
+[full_requires]
+
+
+[full_options]
+
+
+[recipe_hash]
+    01866ddb66c464ecd981ff581a1ea7f3
+
+[env]
+    CC=clang-8
+    CXX=clang++-8
